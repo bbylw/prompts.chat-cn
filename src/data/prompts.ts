@@ -1,4 +1,4 @@
-// prompts.chat 中文站的试读条目。
+// prompts.chat 的试读条目。
 // 提示词原文逐字取自官方数据文件 prompts.csv（github.com/f/prompts.chat，CC0 1.0），
 // 中文标题与一句话说明为本页编辑所加，不改变原文。
 // 全库 2,586 条，这里按主题挑出 64 条。
